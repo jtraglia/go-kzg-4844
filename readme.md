@@ -19,7 +19,9 @@ this library.
 ## Consensus specs
 
 This version of the code is conformant with the consensus-specs as of the
-following commit: `3a2304981a3b820a22b518fe4859f4bba0ebc83b`
+following commit:
+
+* [`3a2304981a3b820a22b518fe4859f4bba0ebc83b`](https://github.com/ethereum/consensus-specs/tree/3a2304981a3b820a22b518fe4859f4bba0ebc83b)
 
 ## Benchmarks
 
